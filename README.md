@@ -1,4 +1,4 @@
-# Gesture-Based In-Cabin Control with Embedded ML-Enabled Out-Cabin Monitoring
+# Gesture-Based In-Cabin Control with Embedded ML-Enabled Out-Cabin Monitoring (Mini Project)
 
 ## Overview
 This project implements a **gesture-based control system** for in-cabin vehicle functions and an **embedded ML-powered airbag monitoring system** for enhanced safety. It leverages **Edge Impulse** for training ML models and an **Arduino Nano 33 BLE Sense** for real-time gesture recognition and motion sensing.
